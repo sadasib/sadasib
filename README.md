@@ -1,6 +1,6 @@
 # Hi, I'm Sadasib 👋
 
-**Senior AI Product Manager @ Walmart | AI Builder PM | GenAI, AI Evals, Responsible AI**
+**Senior AI Product Manager @ Walmart | Builder | GenAI, AgenticAI, AI Evals, Responsible AI**
 
 I build practical AI product artefacts - prototypes, evaluation frameworks, launch playbooks, and business impact models to turn ambiguous AI ideas into measurable product decisions.
 
