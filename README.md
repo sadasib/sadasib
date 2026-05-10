@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Sadasib 👋
 
-<!--
-**sadasib/sadasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior AI Product Manager @ Walmart | AI Builder PM | GenAI, AI Evals, Responsible AI**
 
-Here are some ideas to get you started:
+I build practical AI product artefacts - prototypes, evaluation frameworks, launch playbooks, and business impact models to turn ambiguous AI ideas into measurable product decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I’m focused on
+
+- Building AI product prototypes using synthetic data
+- Designing LLM evaluation frameworks for product teams
+- Exploring AI agents in retail, commerce, and customer experience
+- Creating responsible AI launch-readiness tools
+- Connecting AI product decisions to business outcomes
+
+---
+
+## Featured work
+
+| Project | What it demonstrates |
+|---|---|
+| **AI Evaluation Workbench** | How PMs can define and measure GenAI product quality |
+| **Retail AI Agent Demo** | AI assistant workflows using synthetic retail scenarios |
+| **GenAI PRD/RFC Templates** | Product strategy artifacts for AI teams |
+| **Responsible AI Launch Kit** | Risk, safety, escalation, and launch-readiness frameworks |
+| **AI ROI Simulator** | Business impact modeling for AI investments |
+
+---
+
+## How I build
+
+I use prototypes to clarify product strategy, expose trade-offs, evaluate quality, and help teams make better launch decisions.
+
+My builder principle:
+
+> Start with the customer problem.  
+> Prototype to learn.  
+> Evaluate before scaling.  
+> Launch responsibly.
+
+---
+
+## Let's Connect
+I'm always open to discussing AI product strategy, enterprise agent adoption, or the evolving role of the builder PM.
+
+* 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/sadasiba01/)
+* 📧 Reach out for collaborations or speaking opportunities.
+  
+---
+
+_These are personal portfolio projects using synthetic data and public examples only. They are not affiliated with or representative of my employer._
