@@ -25,6 +25,8 @@ I build practical AI product artefacts - prototypes, evaluation frameworks, laun
 | **GenAI PRD/RFC Templates** | Product strategy artifacts for AI teams |
 | **Responsible AI Launch Kit** | Risk, safety, escalation, and launch-readiness frameworks |
 | **AI ROI Simulator** | Business impact modeling for AI investments |
+| **Prompt Evaluator** | How best Builders can make AI understand their requirement |
+| **PRD to JIRA Agent** | Convert ideas into actioanable bites |
 
 ---
 
