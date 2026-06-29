@@ -32,7 +32,7 @@ I build practical AI product artefacts - prototypes, evaluation frameworks, laun
 
 ## How I build
 
-I use prototypes to clarify product strategy, expose trade-offs, evaluate quality, and help teams make better launch decisions.
+First principles always, builder at heart. I use prototypes to clarify product strategy, expose trade-offs, evaluate quality, and help teams make better launch decisions.
 
 My builder principle:
 
