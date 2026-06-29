@@ -22,7 +22,7 @@ I build practical AI product artefacts - prototypes, evaluation frameworks, laun
 |---|---|
 | **AI Evaluation Workbench** | How PMs can define and measure GenAI product quality |
 | **Retail AI Agent Demo** | AI assistant workflows using synthetic retail scenarios |
-| **GenAI PRD/RFC Templates** | Product strategy artifacts for AI teams |
+| **AI-Product-Playbook** | Product strategy artefacts for AI teams |
 | **Responsible AI Launch Kit** | Risk, safety, escalation, and launch-readiness frameworks |
 | **AI ROI Simulator** | Business impact modeling for AI investments |
 | **Prompt Evaluator** | How best Builders can make AI understand their requirement |
