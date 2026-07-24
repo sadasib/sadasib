@@ -51,4 +51,4 @@ I'm always open to discussing AI product strategy, enterprise agent adoption, or
   
 ---
 
-_These are personal portfolio projects using synthetic data and public examples only. They are not affiliated with or representative of my employer._
+_These are personal portfolio projects using synthetic data and public examples only. They are not affiliated with or representative of my employer._ 
