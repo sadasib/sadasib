@@ -1,54 +1,47 @@
-# Hi, I'm Sadasib 👋
+# Hi, I'm Sadasiba 👋
 
-**Senior AI Product Manager @ Walmart | Builder | GenAI, AgenticAI, AI Evals, Responsible AI**
+**Senior AI Product Manager at Walmart · AI Product Builder**
 
-I build practical AI product artefacts - prototypes, evaluation frameworks, launch playbooks, and business impact models to turn ambiguous AI ideas into measurable product decisions.
+I build practical AI products and product systems—prototypes, evaluation tools, launch frameworks, and agentic workflows—to turn ambiguous opportunities into measurable product decisions.
 
----
-
-## What I’m focused on
-
-- Building AI product prototypes using synthetic data
-- Designing LLM evaluation frameworks for product teams
-- Exploring AI agents in retail, commerce, and customer experience
-- Creating responsible AI launch-readiness tools
-- Connecting AI product decisions to business outcomes
+**GenAI · Agentic AI · AI Evaluation · Responsible AI · Retail & Commerce**
 
 ---
 
-## Featured work
+## Featured Builds
 
 | Project | What it demonstrates |
 |---|---|
-| **AI Evaluation Workbench** | How PMs can define and measure GenAI product quality |
-| **Retail AI Agent Demo** | AI assistant workflows using synthetic retail scenarios |
-| **AI-Product-Playbook** | Product strategy artefacts for AI teams |
-| **Responsible AI Launch Kit** | Risk, safety, escalation, and launch-readiness frameworks |
-| **AI ROI Simulator** | Business impact modeling for AI investments |
-| **Prompt Evaluator** | How best Builders can make AI understand their requirement |
-| **PRD to JIRA Agent** | Convert ideas into actioanable bites |
+| **[AI Product Readiness Index](https://github.com/sadasib/ai-product-readiness-index)** | A guided five-gate launch review that scores AI product readiness, identifies critical blockers, and recommends Production, Beta, or further review. |
+| **[AI Product Playbook](https://github.com/sadasib/ai-product-playbook)** | A practical operating system of PRDs, evaluation plans, risk registers, launch frameworks, and executive decision artifacts for AI product teams. |
+| **[AI Evaluation Workbench](https://github.com/sadasib/ai-evaluation-workbench)** | A product-focused framework for evaluating GenAI quality using synthetic test cases, transparent scoring, and a structured failure taxonomy. |
+| **[Retail AI Agent Demo](https://github.com/sadasib/retail-ai-agent-synthetic-demo)** | A synthetic retail assistant prototype covering product discovery, returns, policy guidance, order support, and human escalation. |
 
 ---
 
-## How I build
+## Other Builder Projects
 
-First principles always, builder at heart. I use prototypes to clarify product strategy, expose trade-offs, evaluate quality, and help teams make better launch decisions.
+- **[Prompt Evaluator](https://github.com/sadasib/prompt-evaluator)** — A/B tests LLM prompts using an LLM-as-a-judge workflow, evaluation criteria, and side-by-side quality comparison.
+- **[PRD-to-Jira Agent](https://github.com/sadasib/prd-to-jira-agent)** — Translates product requirements into engineering-ready epics, user stories, and BDD-style acceptance criteria.
 
-My builder principle:
+---
+
+## How I Build
+
+I use prototypes to reduce ambiguity, expose trade-offs, and make product quality measurable. Code is a tool; better product decisions are the outcome.
 
 > Start with the customer problem.  
-> Prototype to learn.  
+> Prototype to learn—not to impress.  
+> Define quality and failure modes early.  
 > Evaluate before scaling.  
 > Launch responsibly.
 
 ---
 
-## Let's Connect
-I'm always open to discussing AI product strategy, enterprise agent adoption, or the evolving role of the builder PM.
+## Connect
 
-* 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/sadasiba01/)
-* 📧 Reach out for collaborations or speaking opportunities.
-  
+[LinkedIn](https://www.linkedin.com/in/sadasiba01/)
+
 ---
 
-_These are personal portfolio projects using synthetic data and public examples only. They are not affiliated with or representative of my employer._ 
+_These are personal portfolio projects built with synthetic data and public concepts. They do not contain employer information and do not represent the views of my employer._
