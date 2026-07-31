@@ -41,7 +41,7 @@ I use prototypes to reduce ambiguity, expose trade-offs, and make product qualit
 ## Let's Connect 
 I'm always open to discussing AI product strategy, enterprise agent adoption, or the evolving role of the builder PM. 
 * 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/sadasiba01/)
-* * 📧 Reach out for collaborations or speaking opportunities.
+* 📧 Reach out for collaborations or speaking opportunities.
 
 ---
 
