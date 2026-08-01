@@ -2,7 +2,7 @@
 
 **Senior AI Product Manager at Walmart · AI Product Builder**
 
-I build practical AI products and product systems—prototypes, evaluation tools, launch frameworks, and agentic workflows—to turn ambiguous opportunities into measurable product decisions.
+I build practical AI products and product systems—prototypes, evaluation tools, launch frameworks, and agentic workflows to turn ambiguous opportunities into measurable product decisions.
 
 **GenAI · Agentic AI · AI Evaluation · Responsible AI · Retail & Commerce**
 
