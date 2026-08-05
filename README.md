@@ -1,4 +1,4 @@
-# Hi, I'm Sadasib 👋
+# Hi, I'm Sadasib
 
 **Senior AI Product Manager at Walmart · AI Product Builder**
 
