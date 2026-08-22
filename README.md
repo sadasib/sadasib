@@ -45,4 +45,4 @@ I'm always open to discussing AI product strategy, enterprise agent adoption, or
 
 ---
 
-_These are personal portfolio projects built with synthetic data and public concepts. They do not contain employer information and do not represent the views of my employer._
+_These are personal portfolio projects built with synthetic data and publicly available information. They do not contain employer information and do not represent the views of my employer._
